@@ -8,8 +8,8 @@ Repositório destinado às aulas do curso **"Fundamentos de JavaScript"** da pla
 
 | Módulo   | Tema | Exercícios |
 | -------  | ---- | ---------- |
-| Módulo 1 | Conceitos básicos do JavaScript | 📝 |
-| Módulo 2 | Arrays e estruturas de repetição | ❌ |
+| Módulo 1 | [Conceitos básicos do JavaScript](https://github.com/micheledarosa/voitto-js-fundamentos/tree/master/Modulo%201) | [📝](https://github.com/micheledarosa/voitto-js-fundamentos/tree/master/Modulo%201/Exercicios) |
+| Módulo 2 | [Arrays e estruturas de repetição](https://github.com/micheledarosa/voitto-js-fundamentos/tree/master/Modulo%202) | [📝](https://github.com/micheledarosa/voitto-js-fundamentos/tree/master/Modulo%202/Exercicios) |
 | Módulo 3 | Objetos e protótipos | ❌ |
 | Módulo 4 | Programação orientada a objetos | ❌ |
 | Módulo 5 | JavaScript para desenvolvimento web | ❌ |
