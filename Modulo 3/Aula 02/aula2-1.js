@@ -3,7 +3,7 @@ const cliente = {
     idade: 32,
     email: "joao@email.com",
     endereco: "Rua X, número 13"
-}
+};
 
 const nomeDoCliente = cliente.nome;
 

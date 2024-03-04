@@ -3,10 +3,12 @@ const cliente = {
     idade: 32,
     email: "joao@email.com",
     endereco: "Rua X, número 13"
-}
+};
 
-const nomeDoCliente = cliente.nome;
+cliente.celular = 329999999;
+cliente.email = "joao.novoemail@email.com";
 
-console.log(nomeDoCliente);
-console.log(cliente.idade);
+delete cliente.endereco;
+
 console.log(cliente.celular);
+console.log(cliente.email);
