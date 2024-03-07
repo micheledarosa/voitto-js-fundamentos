@@ -12,3 +12,20 @@ Questão 1) Leia o problema abaixo:
  as notas.
 
 */
+
+const notasAlunoA = [10, 6.5, 7.5];
+const notasAlunoB = [9, 6, 6];
+const notasAlunoC = [8.5, 9.5];
+
+const notasGerais = [notasAlunoA, notasAlunoB, notasAlunoC];
+
+let media = 0;
+
+for (let i = 0; i < notasGerais.length; i++) {
+    for (let j = 0; j < notasGerais[i].length; j++) {
+        console.log(media += notasGerais[i][j] / notasGerais[i].length)
+    }
+}
+
+media /= notasGerais.length;
+console.log(`Média geral das notas dos alunos: ${media.toFixed(1)}`)
